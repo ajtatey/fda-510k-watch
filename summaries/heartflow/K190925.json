@@ -1,0 +1,57 @@
+{
+  "applicant": "HeartFlow, Inc.",
+  "clearance_type": "Traditional",
+  "company": "heartflow",
+  "date_received": "2019-04-09",
+  "decision_date": "2019-08-15",
+  "decision_description": "Substantially Equivalent",
+  "device_class": "2",
+  "device_name": "HeartFlow FFRct Analysis",
+  "expects_pdf": true,
+  "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K190925",
+  "generic_device_name": "Coronary Vascular Physiologic Simulation Software",
+  "k_number": "K190925",
+  "product_code": "PJA",
+  "raw": {
+    "address_1": "1400 Seaport Blvd., Bldg. B",
+    "address_2": "",
+    "advisory_committee": "CV",
+    "advisory_committee_description": "Cardiovascular",
+    "applicant": "HeartFlow, Inc.",
+    "city": "Redwood City",
+    "clearance_type": "Traditional",
+    "contact": "Windi  Hary",
+    "country_code": "US",
+    "date_received": "2019-04-09",
+    "decision_code": "SESE",
+    "decision_date": "2019-08-15",
+    "decision_description": "Substantially Equivalent",
+    "device_name": "HeartFlow FFRct Analysis",
+    "expedited_review_flag": "",
+    "k_number": "K190925",
+    "openfda": {
+      "device_class": "2",
+      "device_name": "Coronary Vascular Physiologic Simulation Software",
+      "fei_number": [
+        "3025430791",
+        "3021637148"
+      ],
+      "medical_specialty_description": "Cardiovascular",
+      "registration_number": [
+        "3025430791",
+        "3021637148"
+      ],
+      "regulation_number": "870.1415"
+    },
+    "postal_code": "94063",
+    "product_code": "PJA",
+    "review_advisory_committee": "CV",
+    "state": "CA",
+    "statement_or_summary": "Summary",
+    "third_party_flag": "N",
+    "zip_code": "94063"
+  },
+  "regulation_number": "870.1415",
+  "statement_or_summary": "Summary",
+  "summary_pdf_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190925.pdf"
+}

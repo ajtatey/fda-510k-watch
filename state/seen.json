@@ -1,0 +1,134 @@
+{
+  "seen": {
+    "DEN130045": {
+      "applicant": "Heartflow",
+      "company": "heartflow",
+      "decision_date": "2014-11-26",
+      "device_name": "HEARTFLOW FFRCT",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": ""
+    },
+    "K152733": {
+      "applicant": "HeartFlow, Inc.",
+      "company": "heartflow",
+      "decision_date": "2016-01-13",
+      "device_name": "FFRct",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K161772": {
+      "applicant": "HeartFlow, Inc.",
+      "company": "heartflow",
+      "decision_date": "2016-08-24",
+      "device_name": "FFRct",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K163071": {
+      "applicant": "Elucid Bioimaging, Inc.",
+      "company": "elucid",
+      "decision_date": "2017-05-24",
+      "device_name": "vascuCAP",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K182035": {
+      "applicant": "HeartFlow, Inc.",
+      "company": "heartflow",
+      "decision_date": "2018-12-06",
+      "device_name": "FFRct",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K183012": {
+      "applicant": "Elucid Bioimaging, Inc.",
+      "company": "elucid",
+      "decision_date": "2018-12-21",
+      "device_name": "vascuCAP",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K190925": {
+      "applicant": "HeartFlow, Inc.",
+      "company": "heartflow",
+      "decision_date": "2019-08-15",
+      "device_name": "HeartFlow FFRct Analysis",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K203329": {
+      "applicant": "HeartFlow, Inc.",
+      "company": "heartflow",
+      "decision_date": "2021-01-08",
+      "device_name": "HeartFlow Analysis",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K213857": {
+      "applicant": "HeartFlow, Inc.",
+      "company": "heartflow",
+      "decision_date": "2022-10-14",
+      "device_name": "HeartFlow Analysis",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K221463": {
+      "applicant": "Elucid Bioimaging, Inc.",
+      "company": "elucid",
+      "decision_date": "2022-06-17",
+      "device_name": "ElucidVivo A.3",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K241524": {
+      "applicant": "Elucid Bioimaging, Inc.",
+      "company": "elucid",
+      "decision_date": "2024-09-12",
+      "device_name": "Elucid PlaqueIQ",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K250902": {
+      "applicant": "HeartFlow, Inc.",
+      "company": "heartflow",
+      "decision_date": "2025-07-18",
+      "device_name": "HeartFlow Analysis",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    },
+    "K261855": {
+      "applicant": "Elucid Bioimaging, Inc.",
+      "company": "elucid",
+      "decision_date": "2026-09-18",
+      "device_name": "Elucid PlaqueIQ",
+      "expects_pdf": true,
+      "first_seen": "2026-10-06",
+      "pdf_downloaded": true,
+      "statement_or_summary": "Summary"
+    }
+  }
+}
